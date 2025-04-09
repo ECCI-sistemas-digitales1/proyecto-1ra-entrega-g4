@@ -2,9 +2,33 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
-Laura Daniela Vargas Gacha 
 
+ [Sharom Lizeth Cortes Reyes - 97822](https://github.com/LizethCReyes)
+
+ [Laura Daniela Vargas Gacha - 60863](https://github.com/DanielaVargas-28)
+
+ [Fabian Yesid Alfonso Perez - 98708](https://github.com/fabblack171314)
+
+ [Juan Sebastian Organista Rodriguez - 109533](https://github.com/sebastianista)
 
 ## Documentación
+
+En esta primera parte del proyecto realizamos la presentación inicial de nuestro proyecto, donde planteamos su desarrollo, los materiales a usar y los programas que usaremos.
+
+[Presentación Tanque](Tanque.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
