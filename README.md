@@ -2,6 +2,7 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
+Laura Daniela Vargas Gacha 
 
  [Sharom Lizeth Cortes Reyes - 97822](https://github.com/LizethCReyes)
 
@@ -13,3 +14,5 @@
 
 
 ## Documentación
+
+
