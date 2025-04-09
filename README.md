@@ -2,6 +2,9 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
+Laura Daniela Vargas Gacha 
 
 
 ## Documentación
+
+
