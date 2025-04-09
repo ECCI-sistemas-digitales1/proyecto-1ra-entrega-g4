@@ -3,5 +3,13 @@
 
 ## Integrantes
 
+ [Sharom Lizeth Cortes Reyes - 97822](https://github.com/LizethCReyes)
+
+ [Laura Daniela Vargas Gacha - 60863](https://github.com/DanielaVargas-28)
+
+ [Fabian Yesid Alfonso Perez - 98708](https://github.com/fabblack171314)
+
+ [Juan Sebastian Organista Rodriguez - 109533](https://github.com/sebastianista)
+
 
 ## Documentación
