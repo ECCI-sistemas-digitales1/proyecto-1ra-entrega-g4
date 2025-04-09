@@ -15,7 +15,7 @@
 
 En esta primera parte del proyecto realizamos la presentación inicial de nuestro proyecto, donde planteamos su desarrollo, los materiales a usar y los programas que usaremos.
 
-[Presentación Tanque](Tanque.pdf)
+[Presentación Tanque](/Tanque.pdf)
 
 
 
